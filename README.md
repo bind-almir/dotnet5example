@@ -1,6 +1,6 @@
 **Instructions**
 
-This repository contains dockerized dotnet5 application that will run behind the Lambda function. Following instructions contain steps to reproduce creating a project from scratch. If you don't want to do that, but to use what is already built instead, then move to the deployment section.
+This repository contains a dockerized dotnet5 application that will run behind the Lambda function. Following instructions include steps to reproduce creating a project from scratch.
 
 **Start project from scratch**
 
